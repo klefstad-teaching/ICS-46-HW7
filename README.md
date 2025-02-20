@@ -1,4 +1,4 @@
-# ICS 46: Homework 6
+# ICS 46: Homework 7
 
 Welcome to ICS 46 Homework 7! You will be implementing several different sorters.
 
